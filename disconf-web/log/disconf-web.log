@@ -1,0 +1,5 @@
+ 2016-03-07 15:54:24,455 [main] INFO  com.github.knightliao.apollo.redis.RedisClient - New Jedis pool <client: BeidouRedis1> <server: 127.0.0.1:6379> object created. Connection pool will be initiated when calling.
+ 2016-03-07 15:54:24,529 [main] INFO  com.github.knightliao.apollo.redis.RedisClient - New Jedis pool <client: BeidouRedis2> <server: 127.0.0.1:6380> object created. Connection pool will be initiated when calling.
+ 2016-03-07 15:54:24,999 [proScheduler-2] INFO  com.baidu.disconf.web.tasks.impl.ConfigConsistencyMonitorServiceImpl - task schedule just testing, every 1 min
+ 2016-03-07 15:54:25,078 [main] INFO  com.baidu.disconf.web.test.service.config.dao.ConfigDaoTestCase - varA=200000
+varA2=300000
